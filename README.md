@@ -2,8 +2,8 @@
 
 ## Endpoint
 `POST /addData/:floor`
-ex: `POST /addData/lantai1`
-ex: `POST /addData/lantai1_annex`
+- ex: `POST /addData/lantai1`
+- ex: `POST /addData/lantai1_annex`
 ### Parameters
 - `floor` (URL parameter, required): Floor identifier 
   - Accepted values:
